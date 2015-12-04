@@ -1,0 +1,9 @@
+Enterprise Programming is when a programmer is hired to develop applications for a corporation or other large organization
+whose primary business is NOT Software Development. Every industry employees thousands upon thousands of programmers to develop
+both internal applications for use by employees and externally facing applications such as Web Applications for use by their customers.
+In either case the software is specific to the organization’s business domain. Programmers may either be direct employees of the company
+or they might work for a consultant firm who is hired by the company to develop software for their business requirements.
+For example a Bank or Financial Services company will employ programmers to develop everything from Trading Systems to Reference Data
+and Reporting applications. Manufacturing firms as another example, may hire programmers to develop Just In Time inventory supply chain
+management applications.
+Why do companies and other large organizations develop in-house software instead of simply buying software package from Software firms?
